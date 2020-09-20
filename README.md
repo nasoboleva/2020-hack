@@ -3,7 +3,7 @@
 ## Description
 
 Current repository contains Jupyter notebooks, which solve 
-problems of `Tinkoff` hackaton. 
+problems for `Tinkoff` hackaton. 
 
 There are two main parts:
 1. Improving proposed baseline.
