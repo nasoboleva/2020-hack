@@ -11,9 +11,14 @@ There are two main parts:
 
 ## Baseline improvement
 
-Many approaches were tested during numerous experients,
+Many approaches were tested during numerous experiments,
 but only the most successful solution is represented in 
 `Improved_baseline.ipynb` notebook.
+
+The following approaches were applied to improve the baseline:
+1. Adding usefull features from the data (`socdem info`, `products` for each user).
+2. Playing with architecture of the model, changing the number of layers, number of weights in each layer.
+3. Adding CNN layer into network to expand its capacity.
 
 ## Product prediction
 
